@@ -6,5 +6,7 @@ A simulink model of a drone and the unreal engine 4 is employed with two cameras
 Run first Parameters.m and the the simulink model DisparityMap.slx
 
 
-https://user-images.githubusercontent.com/58446071/197629543-aa687d4f-0f0d-47c2-b62d-25030612dc9e.mp4
+
+
+https://user-images.githubusercontent.com/58446071/197629742-3ad5b8ab-205b-4060-90f7-695261f42579.mp4
 
