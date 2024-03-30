@@ -7,6 +7,6 @@ Run first Parameters.m and the the simulink model DisparityMap.slx
 
 
 
-
+https://youtu.be/xy_rVriEL9s
 https://user-images.githubusercontent.com/58446071/197629742-3ad5b8ab-205b-4060-90f7-695261f42579.mp4
 
